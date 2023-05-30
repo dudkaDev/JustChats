@@ -5,7 +5,7 @@
 
 ### Я использовал:
 - MVC, Delegate и Singleton паттерны
-- Firebase Cloud Sirestore, как базу данных
+- Базу данных Firebase Cloud Firestore
 - MessageKit для экрана с чатом
 
 ## Примеры работы приложения
